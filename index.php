@@ -60,26 +60,6 @@ else {
     echo "Ничего не найдено";
 }
 
-// for($i =0 ;$i<3;$i++){
-//   echo '<div class="result__item">
-//                 <div class="ritem__line"></div>
-//                 <a href = "/modules/state.php" class="ritem__block">
-//                   <div class="ritem__left">
-//                     <div class="ritem__title">
-//                       В республике представят новые модели кибер-футболистов, в том числе синекожих. Это является крайне выгодным вложением для всех нас.
-//                     </div>
-//                     <div class="ritem__info">
-//                       <span>Спорт, 19 октября, 22:44</span>
-//                       <img src="/public_html/img/eye.svg" alt="" />
-//                       <span>297</span> 
-//                     </div>
-//                   </div>
-//                   <div class="ritem__right">
-//                     <img src="/public_html/img/mok.png" alt="" />
-//                   </div>
-//                 </a>
-//               </div>';
-// }
 
 ?>
 
